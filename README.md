@@ -8,4 +8,4 @@ $  ./spliter.sh CRIS
 
 ## Example 1 screenshot result.
 
-<img src="https://github.com/CristianCardosoA/AdbShellPullDB/blob/master/sc.png" />
+<img src="https://github.com/CristianCardosoA/CharSpliter/blob/master/splitter.png" />
